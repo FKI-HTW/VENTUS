@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9a967a1de45e3247bc1be4a7980268e, type: 3}
+  m_Name: Annotation_SelectableProfileGroup
+  m_EditorClassIdentifier: 
+  additionalSelectionPrefabs:
+  - {fileID: 2677408151405492778, guid: ddfcb247b14ff9341b0a765919086267, type: 3}
+  - {fileID: -3426661185245601007, guid: 18f89f7b852b5ad4082be1e23ababdb4, type: 3}
+  - {fileID: 4782430886037371416, guid: 1507b2019d1698a4c8c7573dba788d52, type: 3}
+  - {fileID: 5493449135005777377, guid: cc5663be7f5d31047bfb56dd69f7b8f7, type: 3}

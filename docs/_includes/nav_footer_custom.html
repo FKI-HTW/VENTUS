@@ -1,0 +1,27 @@
+<footer class="site-footer">
+    <script>
+        const localColorMode = localStorage.getItem('colorMode');
+        if (typeof localColorMode !== undefined) {
+            setColorMode(localColorMode === 'true');
+        } else {
+            if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setColorMode(false);
+            } else {
+                setColorMode(true);
+            }
+        }
+
+        function setColorMode(isDarkMode) {
+            jtd.setTheme(isDarkMode ? 'dark' : 'light');
+            localStorage.setItem('colorMode', isDarkMode);
+        }
+
+        function switchColorMode() {
+            const boolDarkMode = localStorage.getItem('colorMode') === 'true';
+            setColorMode(!boolDarkMode);
+        }
+    </script>
+    <button name="button" class="btn fs-3" onclick="switchColorMode()">
+            Switch Colormode
+    </button>
+</footer>

@@ -7,8 +7,6 @@ has_children: true
 has_toc: true
 ---
 
-## Developer Documentation
+## User Documentation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar augue finibus felis fringilla, vel venenatis nisi suscipit. Cras in metus quis urna lobortis tincidunt et at lorem. Morbi sed nulla vel sem vulputate finibus at ac nibh. Suspendisse ultrices porta enim at congue. Mauris molestie, ipsum in luctus ultricies, felis nisi molestie ante, vehicula dapibus leo turpis sed nisl. Praesent elementum sem vel ante bibendum, eu imperdiet sem ornare. Suspendisse pellentesque mauris quis justo aliquet ultricies. Quisque id feugiat purus. Morbi metus sapien, congue sit amet gravida id, elementum et nibh.
-
-Mauris id aliquam turpis, quis pretium sem. Sed et maximus massa. Vestibulum congue pellentesque maximus. Quisque finibus justo id lacus porttitor, at consectetur odio faucibus. Vivamus condimentum enim non ipsum faucibus dapibus. Integer consectetur et ipsum vel euismod. Phasellus justo enim, gravida sodales orci a, imperdiet tempus ipsum. Nulla quis metus lectus. Maecenas sagittis eros nec orci lacinia rhoncus. Proin fringilla ac massa vel sodales. 
+VENTUS is a framework for collaborative prototyping of CAD-Models. Using VENTUS it is possible to edit and discuss these models in an immersive environment on a global scale in real time. Easy-to-use features, such as model transformations, annotations for providing feedback and sketching in 3D-space, allow both professionals and new users alike to utilise VENTUS for developing prototypes with colleagues or clients.
