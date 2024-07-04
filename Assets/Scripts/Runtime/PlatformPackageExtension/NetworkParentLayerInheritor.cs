@@ -1,7 +1,7 @@
 using FishNet.Object;
 using Unity.XR.CoreUtils;
 
-namespace VENTUS.PlaformPackageExtension
+namespace VENTUS.PlatformPackageExtension
 {
     public class NetworkParentLayerInheritor : NetworkBehaviour
     {

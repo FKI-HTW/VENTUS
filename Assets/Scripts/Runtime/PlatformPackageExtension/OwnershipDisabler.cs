@@ -1,7 +1,7 @@
 using FishNet.Object;
 using UnityEngine;
 
-namespace VENTUS.PlaformPackageExtension
+namespace VENTUS.PlatformPackageExtension
 {
     [RequireComponent(typeof(NetworkObject))]
     public class OwnershipDisabler : NetworkBehaviour

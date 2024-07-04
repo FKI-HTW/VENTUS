@@ -5,7 +5,7 @@ using CENTIS.XRPlatformManagement.Controller.Manager;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 
-namespace VENTUS.PlaformPackageExtension
+namespace VENTUS.PlatformPackageExtension
 {
     public class ExtendedControllerModelSpawner : ControllerModelSpawner
     {

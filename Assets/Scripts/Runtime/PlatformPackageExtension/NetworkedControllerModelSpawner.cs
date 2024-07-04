@@ -4,7 +4,7 @@ using FishNet.Object;
 using FishNet.Object.Synchronizing;
 using UnityEngine;
 
-namespace VENTUS.PlaformPackageExtension
+namespace VENTUS.PlatformPackageExtension
 {
     public class NetworkedControllerModelSpawner : NetworkBehaviour
     {

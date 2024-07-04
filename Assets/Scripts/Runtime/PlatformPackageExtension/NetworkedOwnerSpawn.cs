@@ -2,7 +2,7 @@ using FishNet.Connection;
 using FishNet.Object;
 using UnityEngine;
 
-namespace VENTUS.PlaformPackageExtension
+namespace VENTUS.PlatformPackageExtension
 {
     public class NetworkedOwnerSpawn : NetworkBehaviour
     {

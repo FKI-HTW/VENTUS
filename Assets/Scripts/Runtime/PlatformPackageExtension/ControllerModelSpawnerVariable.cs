@@ -2,7 +2,7 @@ using CENTIS.XRPlatformManagement.Controller.Manager;
 using UnityEngine;
 using VENTUS.DataStructures.Variables;
 
-namespace VENTUS.PlaformPackageExtension
+namespace VENTUS.PlatformPackageExtension
 {
 	[CreateAssetMenu(fileName = "new ControllerModelRendererVariable", menuName = "VENTUS/PlatformPackageExtension/Controller Model Renderer Variable")]
 	public class ControllerModelSpawnerVariable : AbstractVariable<ControllerModelSpawner>, IScriptableObjectRegister

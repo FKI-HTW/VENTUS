@@ -1,7 +1,7 @@
 using Unity.XR.CoreUtils;
 using UnityEngine;
 
-namespace VENTUS.PlaformPackageExtension
+namespace VENTUS.PlatformPackageExtension
 {
     public class ParentLayerInheritor : MonoBehaviour
     {

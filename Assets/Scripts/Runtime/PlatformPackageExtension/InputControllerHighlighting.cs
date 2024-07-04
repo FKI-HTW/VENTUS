@@ -2,7 +2,7 @@ using CENTIS.XRPlatformManagement.Controller.Manager;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace VENTUS.PlaformPackageExtension
+namespace VENTUS.PlatformPackageExtension
 {
     public class InputControllerHighlighting : ControllerMaterialHighlighting
     {
