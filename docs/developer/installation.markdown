@@ -8,6 +8,8 @@ parent: Developer Documentation
 
 ## Installation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar augue finibus felis fringilla, vel venenatis nisi suscipit. Cras in metus quis urna lobortis tincidunt et at lorem. Morbi sed nulla vel sem vulputate finibus at ac nibh. Suspendisse ultrices porta enim at congue. Mauris molestie, ipsum in luctus ultricies, felis nisi molestie ante, vehicula dapibus leo turpis sed nisl. Praesent elementum sem vel ante bibendum, eu imperdiet sem ornare. Suspendisse pellentesque mauris quis justo aliquet ultricies. Quisque id feugiat purus. Morbi metus sapien, congue sit amet gravida id, elementum et nibh.
+The newest version of the application can be downloaded for windows from <a href="https://github.com/CENTIS-HTW/VENTUS/releases">Releases</a>.
+Alternatively the source code can also be downloaded or cloned from <a href="https://github.com/CENTIS-HTW/VENTUS">Github</a>. The downloaded project can then be opened with a supported Unity Editor version (2022.3.28+ as of 01.07.24) and built to a desired platform.
 
-Mauris id aliquam turpis, quis pretium sem. Sed et maximus massa. Vestibulum congue pellentesque maximus. Quisque finibus justo id lacus porttitor, at consectetur odio faucibus. Vivamus condimentum enim non ipsum faucibus dapibus. Integer consectetur et ipsum vel euismod. Phasellus justo enim, gravida sodales orci a, imperdiet tempus ipsum. Nulla quis metus lectus. Maecenas sagittis eros nec orci lacinia rhoncus. Proin fringilla ac massa vel sodales. 
+
+Various features are provided as separate packages, which will be automatically downloaded through the Unity Package Manager, once the project is opened. Documentation on these packages can be found at <a href="/VENTUS/developer/packages">Packages</a>.

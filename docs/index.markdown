@@ -22,26 +22,23 @@ nav_order: 1
 
 ---
 
-The aim of the VENTUS project is to develop a flexible and cost-effective system for the exchange and interactive visualization of 3D data and to publish it as an open source application. The visualization is to be made possible with head-mounted displays from various manufacturers as well as standard screens. To support collaboration, various interaction techniques such as pointing gestures and the creation of annotations, 3D-sketching and CAD-models are to be made possible. The exchange of extensive model data between collaboration partners should be simple and efficient. The system should be geared towards business and product development processes in small and medium-sized enterprises (SMEs).
+The aim of the VENTUS project is to develop a flexible and cost-effective system for the exchange and interactive visualization of 3D data and to publish it as an open source application. The visualization is made possible with head-mounted displays from various manufacturers as well as standard screens. To support collaboration, various interaction techniques such as pointing, gestures and the creation of annotations, 3D-sketching and CAD-models were implemented. The exchange of extensive model data between collaboration partners is simple and efficient. The system is geared towards business and product development processes in small and medium-sized enterprises (SMEs).
+
+While VENTUS can be downloaded and used as a complete application, VENTUS is also meant to be used as a framework for future developments in VR. For this, features in VENTUS were made available as separate Unity packages, which can be imported into any other project.
 
 ## Getting Started
 
-Lorem ipsum dolor <a href="/user/">sit amet</a>, consectetur adipiscing elit. Aenean eu porta ex, et vestibulum risus. Phasellus quis pretium purus, in volutpat massa. Pellentesque et commodo est, vel sollicitudin eros. Morbi gravida odio varius diam aliquet, non consectetur massa tempus. <a href="/user/installation">Curabitur vitae</a> venenatis elit. Proin at metus placerat, molestie velit in, scelerisque lorem. Duis semper ipsum eu nibh lobortis, sed cursus mauris tristique. Nunc condimentum dui sit amet diam facilisis dignissim at vitae erat. Duis ac leo vel metus mollis tincidunt. Aliquam a mattis dolor. Nulla nisl quam, vulputate vel congue vitae, tempus at turpis. Morbi volutpat nisi ut ligula viverra. 
+The newest version of the application can be downloaded for windows from <a href="https://github.com/CENTIS-HTW/VENTUS/releases">Releases</a>.
+Alternatively the source code can also be downloaded or cloned from <a href="https://github.com/CENTIS-HTW/VENTUS">Github</a>. The downloaded project can then be opened with a supported Unity Editor version (2022.3.28+ as of 01.07.24) and built to a desired platform. The application starts in desktop-mode by default. VR-mode can be started from the taskbar once a supported HMD is connected and activated through an OpenXR runtime (SteamVR or Meta Quest Link is recommended).
 
-Here could be a video...
-<br/>
-<br/>
-<br/>
+
+VENTUS comes with six example library CAD-models, but allows importing of STEP- and GLTF-models using the file explorer. The model importer can be easily extended if other types of CAD-models are desired. Most features, like the file explorer, can be imported as Unity packages from the <a href="https://github.com/orgs/CENTIS-HTW/repositories">CENTIS Github</a>.
 
 ### User Documentation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar augue finibus felis fringilla, vel venenatis nisi suscipit. Cras in metus quis urna lobortis tincidunt et at lorem. Morbi sed nulla vel sem vulputate finibus at ac nibh. Suspendisse ultrices porta enim at congue. Mauris molestie, ipsum in luctus ultricies, felis nisi molestie ante, vehicula dapibus leo turpis sed nisl. Praesent elementum sem vel ante bibendum, eu imperdiet sem ornare. Suspendisse pellentesque mauris quis justo aliquet ultricies. Quisque id feugiat purus. Morbi metus sapien, congue sit amet gravida id, elementum et nibh.
-
-Mauris id aliquam turpis, quis pretium sem. Sed et maximus massa. Vestibulum congue pellentesque maximus. Quisque finibus justo id lacus porttitor, at consectetur odio faucibus. Vivamus condimentum enim non ipsum faucibus dapibus. Integer consectetur et ipsum vel euismod. Phasellus justo enim, gravida sodales orci a, imperdiet tempus ipsum. Nulla quis metus lectus. Maecenas sagittis eros nec orci lacinia rhoncus. Proin fringilla ac massa vel sodales. 
+In the wiki you can find documentation about using the VENTUS project and all its feautures. You can find the documentation at <a href="/VENTUS/user/">User Documentation</a>. These features are also explained within the VENTUS application itself as part of the help menu, where you can find both explanations and tutorial videos showcasing the implemented features.
 
 
 ### Developer Documentation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulvinar augue finibus felis fringilla, vel venenatis nisi suscipit. Cras in metus quis urna lobortis tincidunt et at lorem. Morbi sed nulla vel sem vulputate finibus at ac nibh. Suspendisse ultrices porta enim at congue. Mauris molestie, ipsum in luctus ultricies, felis nisi molestie ante, vehicula dapibus leo turpis sed nisl. Praesent elementum sem vel ante bibendum, eu imperdiet sem ornare. Suspendisse pellentesque mauris quis justo aliquet ultricies. Quisque id feugiat purus. Morbi metus sapien, congue sit amet gravida id, elementum et nibh.
-
-Mauris id aliquam turpis, quis pretium sem. Sed et maximus massa. Vestibulum congue pellentesque maximus. Quisque finibus justo id lacus porttitor, at consectetur odio faucibus. Vivamus condimentum enim non ipsum faucibus dapibus. Integer consectetur et ipsum vel euismod. Phasellus justo enim, gravida sodales orci a, imperdiet tempus ipsum. Nulla quis metus lectus. Maecenas sagittis eros nec orci lacinia rhoncus. Proin fringilla ac massa vel sodales. 
+In the wiki you can find documentation about cloning and extending the VENTUS Unity project. You can find the documentation at <a href="/VENTUS/developer/">Developer Documentation</a>. The developer documentation also explains which features are provided as separate packages and where to find them.
