@@ -456,45 +456,45 @@
       "hash": "141b4e1e31966242a6fb7c495b52ac3d1221bc75"
     },
     "de.htw-berlin.centis.unityfileexplorer": {
-      "version": "https://github.com/CENTIS-HTW/UnityFileExplorer.git#0.1.5",
+      "version": "https://github.com/FKI-HTW/UnityFileExplorer.git#0.2.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "68acc45637ef0b952798f45afbdb5a06d703b890"
+      "hash": "6520fb837c0314e08291bddcec8ff41629859c41"
     },
     "de.htw-berlin.centis.unityhierarchyview": {
-      "version": "https://github.com/CENTIS-HTW/UnityHierarchyView.git#0.2.0",
+      "version": "https://github.com/FKI-HTW/UnityHierarchyView.git#0.2.1",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "4947d6f6dc9e048f04489debd110b41c9c6e0f44"
+      "hash": "32777691c65d27a365e931897100825a3c4c7a35"
     },
     "de.htw-berlin.centis.vr-sketching-geometry": {
-      "version": "https://github.com/CENTIS-HTW/VRSketchingGeometry.git#0.2.4",
+      "version": "https://github.com/FKI-HTW/VRSketchingGeometry.git#0.3.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.test-framework": "1.1.22",
         "com.unity.test-framework.performance": "2.8.1-preview"
       },
-      "hash": "92f5be16faa5e76710e9c7060202d95e4843cb97"
+      "hash": "ef166d546e27caa6e8763c702004cfcb1d3bae14"
     },
     "de.htw-berlin.centis.xrplatformmanagement": {
-      "version": "https://github.com/CENTIS-HTW/XRPlatformManagement.git#0.1.20",
+      "version": "https://github.com/FKI-HTW/XRPlatformManagement.git#0.1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.xr.arfoundation": "5.1.0",
         "com.unity.textmeshpro": "3.0.6"
       },
-      "hash": "a2a57c3ec54937d8e3536388fb006be51efb709a"
+      "hash": "8317934b170d89e970a786f4a21cb240f451da08"
     },
     "de.ventus.unitystepimporter": {
-      "version": "https://github.com/CENTIS-HTW/UnitySTEPImporter.git#0.1.0",
+      "version": "https://github.com/FKI-HTW/UnitySTEPImporter.git#0.1.1",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "fd3a27a16e3bafcd2291957a51c9dc1d367a206d"
+      "hash": "d11e7a773420c0742fe747c2866c1ac417b52352"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
