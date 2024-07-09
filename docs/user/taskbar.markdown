@@ -34,7 +34,7 @@ This button in the taskbar will teleport you directly back to the centre of the 
 ### Model Library
 
 <video width="50%" height="auto" autoplay muted loop>
-<source src="https://github.com/CENTIS-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/library.mp4" type="video/mp4">
+<source src="https://github.com/FKI-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/library.mp4" type="video/mp4">
 </video>
 
 The model library provides example models that can be used to demonstrate or test the functions of VENTUS. By clicking one of the example models, they will be imported into the scene in front of you.
@@ -50,7 +50,7 @@ The file explorer provides the functionality of importing models from the local 
 ### Select Objects
 
 <video width="50%" height="auto" autoplay muted loop>
-<source src="https://github.com/CENTIS-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/select.mp4" type="video/mp4">
+<source src="https://github.com/FKI-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/select.mp4" type="video/mp4">
 </video>
 
 The select interaction can be used to interact with either model parts or sketched objects. To do so simply point at an object and press the interaction button. Once an object is selected a radial UI opens at its centre. From his UI you can choose between multiple options from the top clockwise: Scale, Rotate, Move, Close, Hierarchy, Open Annotation.
@@ -65,7 +65,7 @@ For more information please also read the separate sections about the specific o
 ### Grab Objects
 
 <video width="50%" height="auto" autoplay muted loop>
-<source src="https://github.com/CENTIS-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/grab.mp4" type="video/mp4">
+<source src="https://github.com/FKI-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/grab.mp4" type="video/mp4">
 </video>
 
 Grab is a free-hand tool, which can be applied on model parts and sketched objects. This interaction combines the transformation types of move and rotate into one. By pointing at a grabbable object and pressing the interaction button you can then move and rotate the object using your hand’s movement and rotation.
@@ -75,7 +75,7 @@ Grab is a free-hand tool, which can be applied on model parts and sketched objec
 ### Sketching
 
 <video width="50%" height="auto" autoplay muted loop>
-<source src="https://github.com/CENTIS-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/sketching.mp4" type="video/mp4">
+<source src="https://github.com/FKI-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/sketching.mp4" type="video/mp4">
 </video>
 
 When the sketching interaction is activated, it is possible to draw lines in the scene using the trigger button on your controller. These lines can be customised in the panel, which opens when selecting the interaction button. Here you can choose a colour for your sketches and the line diameter. Sketching is only possible if the controller is not currently pointing at or interacting with an interface. Sketched lines can also be selected and grabbed like the imported models.
@@ -85,7 +85,7 @@ When the sketching interaction is activated, it is possible to draw lines in the
 ### Pointing
 
 <video width="50%" height="auto" autoplay muted loop>
-<source src="https://github.com/CENTIS-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/magicPointer.mp4" type="video/mp4">
+<source src="https://github.com/FKI-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/magicPointer.mp4" type="video/mp4">
 </video>
 
 When the pointing interaction is activated, you can use your controller as a virtual laser pointer. You can point on everything around you, pressing the trigger button on your controller. The ray you see while pressing the trigger is networked and can be seen by everyone who joined the session.
@@ -95,7 +95,7 @@ When the pointing interaction is activated, you can use your controller as a vir
 ### Undo Redo
 
 <video width="50%" height="auto" autoplay muted loop>
-<source src="https://github.com/CENTIS-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/undoRedo.mp4" type="video/mp4">
+<source src="https://github.com/FKI-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/undoRedo.mp4" type="video/mp4">
 </video>
 
 Using this functionality, you can undo or redo interactions that you did while using VENTUS. These interactions include the selection, grabbing and transformation of model parts and sketches, creation of annotations and importing of models. You can only undo interactions that you performed, not any interactions done by other connected clients. If any other connected client overwrites one of your last interactions with his own, like selecting a model part which you previously transformed, your interaction will be removed from your undo list.

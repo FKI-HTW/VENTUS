@@ -23,9 +23,9 @@ email: ventus-intern@lists.htw-berlin.de
 description: >- # this means to ignore newlines until "baseurl:"
   VENTUS is an open-source project that enables collaborative prototyping of CAD-models in virtual reality.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://centis-htw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fki-htw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /VENTUS/
-github_username: CENTIS-HTW
+github_username: FKI-HTW
 
 # Build settings
 #theme: minima

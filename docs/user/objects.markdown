@@ -11,7 +11,7 @@ parent: User Documentation
 ### Transform Objects
 
 <video width="50%" height="auto" autoplay muted loop>
-<source src="https://github.com/CENTIS-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/transform.mp4" type="video/mp4">
+<source src="https://github.com/FKI-HTW/VENTUS/raw/develop/Assets/StreamingAssets/GlossaryVideos/transform.mp4" type="video/mp4">
 </video>
 
 This panel allows you to transform sketched objects and individual parts of models. Here the currently selected object can either be moved, rotated or scaled. Depending on what button you clicked when opening the transformation panel, a different transformation type will be activated at the start. The current transformation type can be changed by either clicking on the corresponding row in the panel, or by going back to the radial ui and choosing a different transformation.

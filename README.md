@@ -10,9 +10,9 @@ For more information on the project visit: <a href="https://ventus3d.de/index.ht
 
 ## Installation
 
-The newest version of the executable application can be downloaded for windows from <a href="https://github.com/CENTIS-HTW/VENTUS/releases">Releases</a>.
+The newest version of the executable application can be downloaded for windows from <a href="https://github.com/FKI-HTW/VENTUS/releases">Releases</a>.
 Alternatively the source code can also be downloaded or cloned from here. The cloned project can then be opened with a supported Unity Editor version (2022.3.28+ as of 07.24) and built to a desired platform. The application starts in desktop-mode by default. VR-mode can be started from the taskbar once a supported HMD is connected and activated through an OpenXR runtime (SteamVR or Meta Quest Link is recommended).
 
 ## Documentation
 
-Documentation about the individial packages, installation and tutorial videos can be found on our <a href="https://centis-htw.github.io/VENTUS/">documentation website</a>.
+Documentation about the individial packages, installation and tutorial videos can be found on our <a href="https://fki-htw.github.io/VENTUS/">documentation website</a>.

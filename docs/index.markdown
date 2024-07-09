@@ -15,7 +15,7 @@ nav_order: 1
     <a type="button" name="button" class="btn btn-blue" href="#getting-started">
         Getting started
     </a>
-    <a type="button" name="button" class="btn ml-2" href="https://github.com/CENTIS-HTW/VENTUS">
+    <a type="button" name="button" class="btn ml-2" href="https://github.com/FKI-HTW/VENTUS">
         View it on GitHub
     </a>
 </span>
@@ -28,11 +28,11 @@ While VENTUS can be downloaded and used as a complete application, VENTUS is als
 
 ## Getting Started
 
-The newest version of the application can be downloaded for windows from <a href="https://github.com/CENTIS-HTW/VENTUS/releases">Releases</a>.
-Alternatively the source code can also be downloaded or cloned from <a href="https://github.com/CENTIS-HTW/VENTUS">Github</a>. The downloaded project can then be opened with a supported Unity Editor version (2022.3.28+ as of 01.07.24) and built to a desired platform. The application starts in desktop-mode by default. VR-mode can be started from the taskbar once a supported HMD is connected and activated through an OpenXR runtime (SteamVR or Meta Quest Link is recommended).
+The newest version of the application can be downloaded for windows from <a href="https://github.com/FKI-HTW/VENTUS/releases">Releases</a>.
+Alternatively the source code can also be downloaded or cloned from <a href="https://github.com/FKI-HTW/VENTUS">Github</a>. The downloaded project can then be opened with a supported Unity Editor version (2022.3.28+ as of 01.07.24) and built to a desired platform. The application starts in desktop-mode by default. VR-mode can be started from the taskbar once a supported HMD is connected and activated through an OpenXR runtime (SteamVR or Meta Quest Link is recommended).
 
 
-VENTUS comes with six example library CAD-models, but allows importing of STEP- and GLTF-models using the file explorer. The model importer can be easily extended if other types of CAD-models are desired. Most features, like the file explorer, can be imported as Unity packages from the <a href="https://github.com/orgs/CENTIS-HTW/repositories">CENTIS Github</a>.
+VENTUS comes with six example library CAD-models, but allows importing of STEP- and GLTF-models using the file explorer. The model importer can be easily extended if other types of CAD-models are desired. Most features, like the file explorer, can be imported as Unity packages from the <a href="https://github.com/orgs/FKI-HTW/repositories">CENTIS Github</a>.
 
 ### User Documentation
 
