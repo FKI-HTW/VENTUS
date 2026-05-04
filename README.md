@@ -6,7 +6,7 @@ VENTUS is a framework for collaborative prototyping of CAD-Models. Using VENTUS 
 The project can not only be downloaded and used as a complete application, but can also be extended to enable further developments in VR. For this, many of VENTUS' features are provided as separate Unity packages, which can be imported into any Unity project.
 
 
-For more information on the project visit the project homepages: <a href="https://www.htw-berlin.de/forschung/online-forschungskatalog/projekte/projekt?eid=2413)">Ventus</a>, <a href="https://www.htw-berlin.de/forschung/online-forschungskatalog/projekte/projekt?eid=3433)">Ventus2</a>
+For more information on the project visit the project homepages: <a href="https://www.htw-berlin.de/forschung/online-forschungskatalog/projekte/projekt?eid=2413">Ventus</a>, <a href="https://www.htw-berlin.de/forschung/online-forschungskatalog/projekte/projekt?eid=3433">Ventus2</a>
 
 ## Installation
 
